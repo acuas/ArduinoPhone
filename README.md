@@ -1,5 +1,6 @@
 # ArduinoPhone
 A phone designed with Arduino Uno, SIM900 GSM GPRS Shield and Nextion Display.
+![Principal Image](./images/phone.jpg)
 
 ## Things used in this project
 ### Hardware components
